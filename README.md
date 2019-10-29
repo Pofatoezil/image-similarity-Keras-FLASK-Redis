@@ -24,7 +24,7 @@ Siamese network
 這樣的話一組影像的計算時間約為0.5秒，image features 占用 550 MB RAM<br>
 整體流程如下:<br>
 
-<img src="img/model.png">
+<img src="img/model.PNG">
 
 ### import moudle
 
