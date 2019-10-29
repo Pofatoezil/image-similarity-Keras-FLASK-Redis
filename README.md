@@ -11,11 +11,13 @@
 
 ## 1. Image Similarity Model
 
-影像相似度的問題，有許多深度學習的方法，如Siamese network, Triplet network...等衍生出來的模型。<br>
-此次任務目標為使用者輸入1組query image pair之後，從系統資料庫中找出其最相似的一組image pair。  
+影像相似度的問題，有許多深度學習的方法，  
+如Siamese network, Triplet network...等衍生出來的模型。<br>
+此次任務目標為使用者輸入1組query image pair之後，  
+從系統資料庫中找出其最相似的一組image pair。  
 (image pair 中包含一張設計圖的正面與反面。)<br>
-對於這次的任務經典的Siamese network足以完成工作，最後的實驗結果以  
-Cosine Similarity 作為相似度函數 比 L2 distance 效果來的好。<br><br>
+對於這次的任務經典的Siamese network足以完成工作，  
+最後的實驗結果以Cosine Similarity 作為相似度函數 比 L2 distance 效果來的好。<br><br>
 基本的模型架構如下:<br>
 
 Siamese network
