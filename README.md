@@ -1,6 +1,9 @@
 # Deploying Image Similarity Deep Laerning Model by Flask,Redis and Keras
 
-第一次部屬深度學習模型，紀錄實做時遇到的一些狀況  
+第一次部屬深度學習模型，紀錄實做時遇到的一些狀況。以下實作參考    
+[https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)  
+[https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)  
+
 檔案:  
 &emsp;&emsp;app.py 是使用API會重新加載的版本  
 &emsp;&emsp;app_test.py 是只加載一次模型的版本  
