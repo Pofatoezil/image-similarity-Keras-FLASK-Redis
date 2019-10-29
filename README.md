@@ -5,7 +5,7 @@
      app_test.py 是只加載一次模型的版本  
      app_re.py 是使用Redis做為緩存的版本，可以避免使用者同時使用時發生錯誤的情況  
      
-缺少database資料夾，裡面就是一堆對應name_list.xlsx的jpg圖片
+缺少database資料夾，裡面就是一堆對應name_list.xlsx的jpg圖片  
 缺少img_feature_f.npy 與 img_feature_b.npy 兩個預先處理的 npy檔案
 
 ## 1. Image Similarity Model
