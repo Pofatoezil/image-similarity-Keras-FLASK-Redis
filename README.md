@@ -181,7 +181,7 @@ def index():
 ```
 
 
-<img src="img/index.png" align="left" witth=100%>  
+<img src="img/index.png" >  
   
   
 
